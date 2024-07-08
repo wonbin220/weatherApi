@@ -37,3 +37,5 @@ out/
 .vscode/
 
 logs
+ 
+openweathermap.key=915c6ef29a5d83890f363f5f8e475c3e
